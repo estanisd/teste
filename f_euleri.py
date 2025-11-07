@@ -1,5 +1,8 @@
 def qualquercoisa():
     print(35)
     for i in range(35):
-        print(i)
+        print(i+5)
     return 45
+
+print("Waffles são gostosos")
+print("Mas tudo se perdeu")
